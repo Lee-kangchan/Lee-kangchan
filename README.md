@@ -28,5 +28,4 @@ https://www.notion.so/Readme-md-69ab645f6070499ebb3e840654a8a93c
 
 
 
-[![Lee-kangchan's github stats](https://github-readme-stats.vercel.app/api?username=Lee-kangchan)](https://github.com/Lee-kangchan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-kangchan&layout=compact)](https://github.com/Lee-kangchan/github-readme-stats)
+[![Lee-kangchan's github stats](https://github-readme-stats.vercel.app/api?username=Lee-kangchan)](https://github.com/Lee-kangchan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-kangchan&layout=compact)](https://github.com/Lee-kangchan/github-readme-stats)
